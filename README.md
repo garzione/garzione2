@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Partna](www.partna.app)
   
-- 🔭 I’m a graduate student at UIUC
+- 📐 I’m a graduate student at UIUC Grainger
   
 - 🌱 I’m currently learning **Django**
 
