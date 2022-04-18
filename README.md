@@ -3,7 +3,7 @@
   
   
   
-![Gargoyle](https://drive.google.com/drive/folders/1ymQhnfjIboX1eaUvwr6uH6PzlzCtvk3G)
+![Gargoyle](https://drive.google.com/file/d/1nZ2kxtO6PjebtivDXOsS-ZZUYF2FdO1F/view?usp=sharing)
 
   
 
