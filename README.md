@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">AFull stack developer from 🇺🇸h3>
+<h3 align="center">Full stack developer from 🇺🇸<h3>
 
 - 🔭 I’m currently working on [Partna](www.partna.app)
 
