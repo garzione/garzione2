@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">Full stack developer from 🇺🇸<h3>
+  
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=garzione&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on [Partna](www.partna.app)
 
