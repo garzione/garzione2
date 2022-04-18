@@ -3,7 +3,9 @@
   
 
 - 🔭 I’m currently working on [Partna](www.partna.app)
-
+  
+- 🔭 I’m a graduate student at UIUC
+  
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **React, JavaScript**
