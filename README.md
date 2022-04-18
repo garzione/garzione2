@@ -3,7 +3,8 @@
   
   
   
-![Gargoyle](https://drive.google.com/drive/folders/1ymQhnfjIboX1eaUvwr6uH6PzlzCtvk3G)
+![StackOverflow logo](https://www.stackoverflowbusiness.com/hubfs/B2B-SO/images/logo-so-PRINT-4.png)
+
 
   
 
