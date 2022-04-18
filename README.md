@@ -1,12 +1,6 @@
 <h1 align="center">Hi 🖐🏽 I'm Justin</h1>
 <h3 align="center">Full stack developer from 🇺🇸<h3>
   
-  
-  
-![StackOverflow logo](https://www.stackoverflowbusiness.com/hubfs/B2B-SO/images/logo-so-PRINT-4.png)
-
-
-  
 
 - 🔭 I’m currently working on [Partna](www.partna.app)
   
