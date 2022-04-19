@@ -6,7 +6,7 @@
   
 - 📐 I’m a graduate student at UIUC Grainger
   
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** & **Go**
 
 - 💬 Ask me about **React, JavaScript**
 
