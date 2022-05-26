@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **justin@partna.app**
+- 📫 How to reach me **justingarzione@gmail.com**
 
 - ⚡ Fun fact **I'm ambidextrous!**
   
